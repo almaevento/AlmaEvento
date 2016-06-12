@@ -1,0 +1,1413 @@
+# Translation of Azera Shop in Russian
+# This file is distributed under the same license as the Azera Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-27 14:38:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Azera Shop\n"
+
+#. Description of the plugin/theme
+msgid "Azera Shop is an elegant free WooCommerce WordPress theme, perfect for building an one page online store. Azera Shop is ecommerce ( Woo Commerce ) Compatible, WPML, RTL,Photo Gallery Grid, Contact Form 7, Meta Slider,SiteOrigin Page Builder, SEO Friendly and with parallax effect, full screen image is one of the best e-commerce themes and a good storefront alternative. The flat and simple design based on bootstrap template can work great for any business / startup, blog or photography site."
+msgstr "Azera Shop это бесплатная и элегантная WordPress тема для WooCommerce, идеально подходящая для создания одностраничного магазина. Azera Shop это ecommerce ( Woo Commerce ) совместимая, WPML, RTL, Photo Gallery Grid, Contact Form 7, Meta Slider, SiteOrigin Page Builder, дружественное SEO с эффектом паралакса, полноэкранным изображением, одна из лучших e-commerce тем с отличной первой страницей. Простой дизайн с плоскими элементами на bootstrap шаблоне отлично подойдет как для бизнеса так и для стартапа, блога или сайта с фотографиями."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:101
+msgid "Azera Shop Companion"
+msgstr "Azera Shop Companion"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:102
+msgid "The %1$s plugin is a simple, easy and in the same time quite powerful plugins that adds options for Our Services, Our Team and Testimonials sections on frontpage."
+msgstr "%1$s плагин - простой, удобный и в тоже время мощный инструмент для настройки опций для блоков Наш Сервис, Наша Команда и Отзывы на главной странице."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+msgid "Install %1$s"
+msgstr "Установить %1$s"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Простите, но у вас нет прав использовать %1$s плагин."
+msgstr[1] "Простите, но у вас нет прав использовать %1$s плагины."
+msgstr[2] "Простите, но у вас нет прав использовать %1$s плагины."
+
+#: class-tgm-plugin-activation.php:382 functions.php:359
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагна"
+msgstr[1] "Начать установку плагнов"
+msgstr[2] "Начать установку плагнов"
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: class-tgm-plugin-activation.php:392 functions.php:360
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: class-tgm-plugin-activation.php:397 functions.php:361
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в Установщик необходимых плагинов"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Вернуться в Консоль"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:362
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Данный плагин успешно активирован:"
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ничего не случилось. Плагин %1$s уже активирован."
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Нужна более новая версия %s для этой темы. Пожалуйста, обновите плагин."
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Скрыть уведомление"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору сайта за помощью."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с этой темой, данный плагин необходимо обновить."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Необходимо обновление"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Установите вместо переменную конфигурации parent_slug."
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Вернуться в Консоль"
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Пакет удаленного плагина не содержит папку с нужным ярлыком и переименовывание не работает."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста свяжитесь с поставщиком плагина и попросите упаковать плагин согласно рекомендациям WordPress."
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Удаленный плагин состоит из более одного файла, но файлы не упакованы в папку."
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Необходимо"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Репозиторий"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Предупакован"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Активированый"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Необходимое обновление недоступно"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Требует обновления"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Рекомендуется обновить"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Имеется обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Имеется обновление <span class=\"count\">(%s)</span>"
+msgstr[2] "Имеется обновление <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Установлена версия:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Минимально необходимая версия:"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Плагинов для установки, обновления или активации нет. <a href=\"%1$s\">Вернуться в Консоль</a>"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Плагин"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Источник"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Тип"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Версия"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Статус"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение про обновление от автора плагина:"
+
+#: class-tgm-plugin-activation.php:2603
+#: inc/admin/welcome-screen/sections/getting-started.php:175
+#: inc/admin/welcome-screen/sections/getting-started.php:194
+msgid "Install"
+msgstr "Установить"
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Обновить"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Активировать"
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ни один плагин не был выбран для установки. Никаких действий не совершено."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ни один плагин не выбран для обновления. Никаких действий не совершено."
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов готовых к установке."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Нет плагинов готовых к обновлению."
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Нет плагинов готовых к активации. Никаких действий не совершено."
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов готовых к активации."
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Ошибка активации плагина."
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "При установке %1$s возникла ошибка."
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Запущен процесс установки и активации. Этот процесс может занять некоторое время на некоторых хостах, пожалуйста, будьте терпеливы."
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "Установка и активация %1$s завершилась успешно."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Спрятать детали"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки запущен. Этот процесс может занять некоторое время, на определенных хостах, пожалуйста, будьте терпеливы."
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Устанавливается плагин %1$s (%2$d/%3$d)"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одно мнение про &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнений про &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мнений про &ldquo;%2$s&rdquo;"
+
+#: comments.php:35 comments.php:58
+msgid "Comment navigation"
+msgstr "Навигация комментариев"
+
+#: comments.php:38 comments.php:61
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:39 comments.php:62
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Комментарии отключены."
+
+#: content-contact.php:33 content-page.php:27 inc/template-tags.php:98
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать вашу первую запись?  <a href=\"%1$s\">Начните тут</a>."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Простите, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте еще раз используя другие ключевые слова."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не не можем найти то, что вы ищите. Возможно вам поможет поиск."
+
+#: content-page.php:20 content-search.php:90 content-single-download.php:28
+#: content-single.php:32 content.php:84
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-search.php:40 content.php:40
+msgctxt "post day fomat"
+msgid "d"
+msgstr "d"
+
+#: content-search.php:41 content.php:41
+msgctxt "post month fomat"
+msgid "M"
+msgstr "M"
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:52 content.php:55 inc/template-tags.php:80
+#: inc/template-tags.php:86
+msgid ", "
+msgstr ", "
+
+#: content-search.php:58
+msgid "Posted in "
+msgstr "Созданно в"
+
+#: content-search.php:71 content-single.php:23 content.php:65
+msgid "No comments"
+msgstr "Комментарии отсутствуют"
+
+#: content-search.php:71 content-single.php:23 content.php:65
+msgid "One comment"
+msgstr "Один комментарий"
+
+#: content-search.php:71 content-single.php:23 content.php:65
+msgid "% comments"
+msgstr "% коментариев"
+
+#: content.php:36
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: content.php:52
+msgid "Posted in"
+msgstr "Созданно в"
+
+#: content.php:77
+msgid "Read more %s &#8230;"
+msgstr "Читать больше %s &#8230;"
+
+#: content.php:77
+msgid "about "
+msgstr "про"
+
+#: footer.php:19
+msgid "Widgets Area 1"
+msgstr "Зона виджетов 1"
+
+#: footer.php:29
+msgid "Widgets Area 2"
+msgstr "Зона виджетов 2"
+
+#: footer.php:38
+msgid "Widgets Area 3"
+msgstr "Зона виджетов 3"
+
+#: footer.php:47
+msgid "Widgets Area 4"
+msgstr "Зона виджетов 4"
+
+#: footer.php:73 footer.php:74
+msgid "Secondary Menu"
+msgstr "Другорядное меню"
+
+#: footer.php:136
+msgid "%1$s powered by %2$s"
+msgstr "%1$s поддерживается %2$s"
+
+#. #-#-#-#-#  azera-shop.pot (Azera Shop 1.0.13)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: footer.php:137 inc/class/azera-shop-general-control.php:74
+#: inc/class/azera-shop-general-control.php:171
+#: inc/class/azera-shop-general-control.php:266
+msgid "Azera Shop"
+msgstr "Azera Shop"
+
+#: footer.php:138
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:47 header.php:122
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: functions.php:121
+msgid "Switch \"Front page displays\" to \"A static page\" "
+msgstr "Переключить \"Отображать главную страницу\" на \"Статическая страница\""
+
+#: functions.php:122
+msgid "In order to have the one page look for your website, please go to Customize -> Advanced Options -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "Если вы хотите что бы ваш сайт был одностраничным, пожалуйста перейдите в Настройки -> Дополнительные настройки -> Статическая главная страница и переключите \"Отображать главную страницу\" на \"Статическая страница\". Теперь выберите шаблон \"Главная страница\" для выбранной страницы."
+
+#: functions.php:127
+msgid "Install Intergeo Maps - Google Maps Plugin"
+msgstr "Установить Intergeo Maps - Google Maps плагин"
+
+#: functions.php:128
+msgid "In order to use map section, you need to install Intergeo Maps plugin then use it to create a map and paste the generated shortcode in Customize -> Contact section -> Map shortcode"
+msgstr "Если вы хотите использовать блок Карты, вам необходимо установить плагин Intergeo Maps и использовать его для создания карты и вставить сгенерированный код в Настройки -> Блок Контакты -> Шорткод Карты"
+
+#: functions.php:166
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:178
+msgid "Footer area %d"
+msgstr "Зона футера %d"
+
+#: functions.php:220
+msgid "expand child menu"
+msgstr "Раскрыть дочернее меню"
+
+#: functions.php:221
+msgid "collapse child menu"
+msgstr "Свернуть дочернее меню"
+
+#: functions.php:275
+msgid "Documentation"
+msgstr "Документация"
+
+#: functions.php:276
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: functions.php:277
+msgid "Upgrade to PRO"
+msgstr "Обновить до PRO"
+
+#: functions.php:353
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Простите, но у вас нет прав для установки %s плагина. Обратитесь к администратору сайта за помощью в установке данного плагина."
+msgstr[1] "Простите, но у вас нет прав для установки %s плагинов. Обратитесь к администратору сайта за помощью в установке этих плагинов."
+msgstr[2] "Простите, но у вас нет прав для установки %s плагинов. Обратитесь к администратору сайта за помощью в установке этих плагинов."
+
+#: functions.php:356
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Простите, но у вас нет прав для активации %s плагина. Обратитесь к администратору сайта за помощью в активации данного плагина."
+msgstr[1] "Простите, но у вас нет прав для активации %s плагинов. Обратитесь к администратору сайта за помощью в активации этих плагинов."
+msgstr[2] "Простите, но у вас нет прав для активации %s плагинов. Обратитесь к администратору сайта за помощью в активации этих плагинов."
+
+#: functions.php:358
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Простите, но у вас нет прав для обновления %s плагина. Обратитесь к администратору сайта за помощью в обновления данного плагина."
+msgstr[1] "Простите, но у вас нет прав для обновления %s плагинов. Обратитесь к администратору сайта за помощью в обновлении этих плагинов."
+msgstr[2] "Простите, но у вас нет прав для обновления %s плагинов. Обратитесь к администратору сайта за помощью в обновлении этих плагинов."
+
+#: functions.php:363
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины успешно установлены и обновлены. %s"
+
+#: functions.php:454
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:454 functions.php:478
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: functions.php:466
+msgid "<span itemprop=\"name\">%s </span><span class=\"says\">says:</span>"
+msgstr "<span itemprop=\"name\">%s </span><span class=\"says\">написал:</span>"
+
+#: functions.php:469
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:474
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: functions.php:475
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:694
+msgid "Read more about "
+msgstr "Читать больше про "
+
+#: functions.php:705 header.php:157
+msgid "View your shopping cart"
+msgstr "Посмотреть корзину"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:109
+msgid "Toggle Menu"
+msgstr "Мобильное меню"
+
+#: header.php:110
+msgid "Toggle navigation"
+msgstr "Мобильная навигация"
+
+#: header.php:148
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Искать товары&hellip;"
+
+#: header.php:148
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: header.php:149
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with Azera Shop's recommended actions"
+msgstr "Будь в курсе с рекомендованными действиями для Azera Shop"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:58
+#: inc/admin/welcome-screen/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Урааа! Больше нет рекомендованных действий для вас."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "Welcome to %1$s!"
+msgstr "Добро пожаловать в %1$s!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+msgid "Our most elegant and professional one-page theme, which turns your scrolling into a smooth and pleasant experience."
+msgstr "Одна из самых элегантных и профессиональных одностраничных тем, которая превращает прокрутку в плавную и приятную процедуру."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:25
+msgid "We want to make sure you have the best experience using Azera Shop and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Azera Shop, as much as we enjoy creating great products."
+msgstr "Мы хотим быть уверены, что вы используете все возможности Azera Shop и именно по этому мы собрали тут всю необходимую информацию для вас информацию. Мы надеемся вам понравится использовать Azera Shop, так же как нам создавать отличные продукты."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:33
+#: inc/admin/welcome-screen/welcome-screen.php:180
+msgid "Getting started"
+msgstr "Начнем"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:35
+msgid "Customize everything in a single place."
+msgstr "Настройте все в одном месте."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Используя WordPress Customizer вы с легкостью настроите все аспекты темы."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:37
+msgid "Go to Customizer"
+msgstr "Перейти в Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:45
+msgid "FAQ"
+msgstr "ЧаВо"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:51
+msgid "Create a child theme"
+msgstr "Создать дочернюю тему"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:52
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Если вы хотите изменить какой-либо файл темы, эти изменения скорее всего будут перезаписаны при следующем обновлении темы. Что бы избежать подобного, мы рекомендуем создавать дочернюю тему. Как это сделать, узнайте из документации ниже."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:53
+#: inc/admin/welcome-screen/sections/getting-started.php:59
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid "View how to do this"
+msgstr "Посмотрите как это сделать"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:57
+msgid "How to Internationalize Your Website"
+msgstr "Как интернационализировать ваш сайт"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:58
+msgid "Although English is the most used language on the internet, you should consider all your web users as well. Find out what it takes to make your website ready for foreign markets from this document."
+msgstr "Несмотря на то, что английский является самым используемым языком в интернете, вам необходимо учитывать потребности всех ваших клиентов. Узнайте, что надо сделать, что бы ваш сайт был готов для иностранных рынков читайте в документации ниже."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:65
+msgid "Speed up your site"
+msgstr "Ускорьте ваш сайт"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Если вы обнаружите, что ваш сайт стал медленней работать, рекомендуем вам ознакомиться с документацией ниже, где вы найдете основные причины возникновения таких проблем и способы устранения их устранения."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:71
+msgid "Link Menu to sections"
+msgstr "Ссылка меню на разделы"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "Объединить раздел Главная страница и верхнее меню очень просто, все что вам надо, это привязать ссылку на раздел в меню. В документации ниже вы сможете найти обширную справку по данному вопросу."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "View full documentation"
+msgstr "Посмотреть полную документацию"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:85
+msgid "Need more details? Please check our full documentation for detailed information on how to use Azera Shop."
+msgstr "Необходимо больше информации? Пожалуйста, ознакомьтесь с детальной документацией ниже о том как использовать Azera Shop."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Read full documentation"
+msgstr "Читать полную документацию"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:95
+msgid "Recommended plugins"
+msgstr "Рекомендованные плагины"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:120
+msgid "Intergeo Maps - Google Maps Plugin"
+msgstr "Intergeo Maps - Google Maps плагин"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:121
+msgid "The Intergeo Google Maps plugin is a simple, easy and in the same time quite powerful tool for handling Google Maps in your website. The plugin allows users to create new maps by using powerful UI builder."
+msgstr "Плагин Intergeo Google Maps очень простой, удобный и в тоже время мощный инструмент для работы с Google Maps на вашем сайте. Плагин дает возможность пользователям создавать новые карты используя мощный UI конструктор."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:106
+#: inc/admin/welcome-screen/sections/getting-started.php:125
+#: inc/admin/welcome-screen/sections/getting-started.php:149
+#: inc/admin/welcome-screen/sections/getting-started.php:169
+#: inc/admin/welcome-screen/sections/getting-started.php:188
+msgid "Already activated"
+msgstr "Уже активировано"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+msgid "Install Intergeo Maps"
+msgstr "Установить Intergeo Maps"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:144
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:145
+msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
+msgstr "Делает вашу страницу контактов более привлекательной создавая хорошо смотрящуюся форму контакта на вашем сайте. Никогда еще общение с пользователями не было так легко."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:155
+msgid "Install Pirate Forms"
+msgstr "Установить Pirate Forms"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Как я могу помочь?"
+
+#: inc/admin/welcome-screen/sections/github.php:15
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Нашли ошибку? Хотите помочь ее исправить или добавить новую опцию?"
+
+#: inc/admin/welcome-screen/sections/github.php:17
+msgid "GitHub is the place to go!"
+msgstr "Место встречи - GitHub!"
+
+#: inc/admin/welcome-screen/sections/github.php:20
+msgid "Azera Shop on GitHub"
+msgstr "Azera Shop на GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:28
+msgid "Are you a polyglot? Want to translate Azera Shop into your own language?"
+msgstr "Вы полиглот? Хотите перевести Azera Shop на ваш язык?"
+
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Get involved at WordPress.org."
+msgstr "Присоединяйтесь на WordPress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:33
+msgid "Translate Azera Shop"
+msgstr "Переведите Azera Shop"
+
+#: inc/admin/welcome-screen/sections/github.php:40
+msgid "Are you enjoying Azera Shop?"
+msgstr "Вам нравиться Azera Shop?"
+
+#: inc/admin/welcome-screen/sections/github.php:42
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Оцените тему на %sWordPress.org%s. Мы будем вам признательны!"
+
+#: inc/admin/welcome-screen/sections/support.php:9
+msgid "Need more details?"
+msgstr "Необходимо больше информации?"
+
+#: inc/admin/welcome-screen/sections/support.php:11
+msgid "Please check our full documentation for detailed information on how to use Azera Shop."
+msgstr "Пожалуйста, ознакомьтесь с полной документацией для получения детальной информации об использовании Azera Shop."
+
+#: inc/admin/welcome-screen/sections/support.php:14
+msgid "Azera Shop documentation"
+msgstr "Документация Azera Shop"
+
+#: inc/admin/welcome-screen/sections/support.php:17
+msgid "Or would you like to contact us? Write on our support forum."
+msgstr "Или вы хотите связаться с нами? Напишите нам на форуме поддержки."
+
+#: inc/admin/welcome-screen/sections/support.php:20
+msgid "Support forum"
+msgstr "Форум поддержки"
+
+#: inc/admin/welcome-screen/welcome-screen.php:43
+msgid "About"
+msgstr "Про"
+
+#: inc/admin/welcome-screen/welcome-screen.php:64
+msgid "Welcome! Thank you for choosing Azera Shop! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Добро пожаловать! Спасибо, что выбрали Azera Shop! Для уверенности в том, что вы используете все преимущества нашей лучшей темы, пожалуйста, убедитесь, что вы посетили %sстраницу приветствия%s."
+
+#: inc/admin/welcome-screen/welcome-screen.php:65
+msgid "Get started with Azera Shop"
+msgstr "Начните вместе с Azera Shop"
+
+#: inc/admin/welcome-screen/welcome-screen.php:181
+msgid "Actions recommended"
+msgstr "Рекомендованные действия"
+
+#: inc/admin/welcome-screen/welcome-screen.php:182
+msgid "Contribute"
+msgstr "Сделайте вклад"
+
+#: inc/admin/welcome-screen/welcome-screen.php:183
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/admin/welcome-screen/welcome-screen.php:184
+msgid "Change log"
+msgstr "Лог изменений"
+
+#: inc/class/azera-shop-general-control.php:78
+#: inc/class/azera-shop-general-control.php:175
+#: inc/class/azera-shop-general-control.php:270
+msgid "Image type"
+msgstr "Тип изображений"
+
+#: inc/class/azera-shop-general-control.php:80
+#: inc/class/azera-shop-general-control.php:92
+#: inc/class/azera-shop-general-control.php:116
+#: inc/class/azera-shop-general-control.php:177
+#: inc/class/azera-shop-general-control.php:189
+#: inc/class/azera-shop-general-control.php:213
+#: inc/class/azera-shop-general-control.php:272
+#: inc/class/azera-shop-general-control.php:285
+#: inc/class/azera-shop-general-control.php:310
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/class/azera-shop-general-control.php:81
+#: inc/class/azera-shop-general-control.php:86
+#: inc/class/azera-shop-general-control.php:106
+#: inc/class/azera-shop-general-control.php:178
+#: inc/class/azera-shop-general-control.php:183
+#: inc/class/azera-shop-general-control.php:205
+#: inc/class/azera-shop-general-control.php:273
+#: inc/class/azera-shop-general-control.php:279
+#: inc/class/azera-shop-general-control.php:302 inc/customizer.php:656
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/class/azera-shop-general-control.php:82
+#: inc/class/azera-shop-general-control.php:179
+#: inc/class/azera-shop-general-control.php:274
+msgid "None"
+msgstr "Ничего"
+
+#: inc/class/azera-shop-general-control.php:88
+#: inc/class/azera-shop-general-control.php:109
+#: inc/class/azera-shop-general-control.php:185
+#: inc/class/azera-shop-general-control.php:208
+#: inc/class/azera-shop-general-control.php:281
+#: inc/class/azera-shop-general-control.php:305
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/class/azera-shop-general-control.php:131
+#: inc/class/azera-shop-general-control.php:132
+#: inc/class/azera-shop-general-control.php:228
+#: inc/class/azera-shop-general-control.php:229
+#: inc/class/azera-shop-general-control.php:325
+#: inc/class/azera-shop-general-control.php:326 inc/customizer.php:632
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/class/azera-shop-general-control.php:138
+#: inc/class/azera-shop-general-control.php:139
+#: inc/class/azera-shop-general-control.php:235
+#: inc/class/azera-shop-general-control.php:236
+#: inc/class/azera-shop-general-control.php:332
+#: inc/class/azera-shop-general-control.php:333 inc/customizer.php:178
+#: inc/customizer.php:312 inc/customizer.php:643
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/class/azera-shop-general-control.php:145
+#: inc/class/azera-shop-general-control.php:146
+#: inc/class/azera-shop-general-control.php:241
+#: inc/class/azera-shop-general-control.php:242
+#: inc/class/azera-shop-general-control.php:337
+#: inc/class/azera-shop-general-control.php:338
+msgid "Text"
+msgstr "Текст"
+
+#: inc/class/azera-shop-general-control.php:150
+#: inc/class/azera-shop-general-control.php:151
+#: inc/class/azera-shop-general-control.php:245
+#: inc/class/azera-shop-general-control.php:246
+#: inc/class/azera-shop-general-control.php:342
+#: inc/class/azera-shop-general-control.php:343
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/class/azera-shop-general-control.php:155
+#: inc/class/azera-shop-general-control.php:156
+#: inc/class/azera-shop-general-control.php:249
+#: inc/class/azera-shop-general-control.php:250
+#: inc/class/azera-shop-general-control.php:348
+#: inc/class/azera-shop-general-control.php:349
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/class/azera-shop-general-control.php:161
+#: inc/class/azera-shop-general-control.php:254
+#: inc/class/azera-shop-general-control.php:355
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: inc/class/azera-shop-general-control.php:377
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: inc/class/azera-shop-woocommerce-categories.php:39
+msgid "All Categories"
+msgstr "Все категории"
+
+#: inc/customizer.php:35
+msgid "Appearance"
+msgstr "Вид"
+
+#: inc/customizer.php:48
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: inc/customizer.php:66
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer.php:74
+msgid "General options"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:76
+msgid "Azera Shop theme general appearance options"
+msgstr "Основные настройки внешнего вида темы Azera Shop"
+
+#: inc/customizer.php:87 sections/azera_shop_logos_section.php:56
+#: sections/azera_shop_logos_section.php:61
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:100
+msgid "Header visibility"
+msgstr "Отображение шапки"
+
+#: inc/customizer.php:101
+msgid "If this box is checked, the header will toggle on frontpage."
+msgstr "Если этот бокс отмечен, шапка будет отображаться на главной странице."
+
+#: inc/customizer.php:112
+msgid "Frontpage settings"
+msgstr "Настройки Главной страницы"
+
+#: inc/customizer.php:124
+msgid "To customize the Frontpage sections please create a page and select the template \"Frontpage\" for that page. After that, go to Appearance -> Customize -> Advanced options -> Frontpage displays and select \"A static page\". Finally, for \"Front page\" choose the page you previously created."
+msgstr "Для настройки раздела Главной страницы, пожалуйста, создайте страницу и выберите шаблон \"Главная страница\". После этого, перейдите в Внешний вид -> Настройки -> Дополнительные настройки -> отображение Главной страницы и выберите \"Статическая страница\". В завершение, для \"Главная страница\" выберите созданную вами страницу."
+
+#: inc/customizer.php:124
+msgid "Need further informations? Check this"
+msgstr "Необходимо больше информации? Ознакомьтесь с"
+
+#: inc/customizer.php:124
+msgid "doc"
+msgstr "doc"
+
+#: inc/customizer.php:132
+msgid "Frontpage sections"
+msgstr "Раздел Главная страница"
+
+#: inc/customizer.php:139
+msgid "Big title section"
+msgstr "Раздел Большого заголовка"
+
+#: inc/customizer.php:153
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer.php:166 inc/customizer.php:299 inc/customizer.php:399
+msgid "Main title"
+msgstr "Основной заголовок"
+
+#: inc/customizer.php:185 sections/azera_shop_header_section.php:8
+msgid "GET STARTED"
+msgstr "НАЧНЕМ"
+
+#: inc/customizer.php:190 inc/customizer.php:411
+msgid "Button label"
+msgstr "Надпись кнопки"
+
+#: inc/customizer.php:196
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:201 inc/customizer.php:422
+msgid "Button link"
+msgstr "Ссылка кнопки"
+
+#: inc/customizer.php:207
+msgid "Big title section background"
+msgstr "Раздел фона большого заголовка"
+
+#: inc/customizer.php:218
+msgid "Parallax effect"
+msgstr "Паралакс эффект "
+
+#: inc/customizer.php:219
+msgid "If this box is checked, the parallax effect is enabled."
+msgstr "Если этот бокс отмечен, паралакс эффект включен."
+
+#: inc/customizer.php:232
+msgid "First layer"
+msgstr "Первый слой"
+
+#: inc/customizer.php:244
+msgid "Second layer"
+msgstr "Второй слой"
+
+#: inc/customizer.php:254
+msgid "Logos Bar section"
+msgstr "Раздел Панель логотипа"
+
+#: inc/customizer.php:275 inc/customizer.php:543
+msgid "Add new social icon"
+msgstr "Добавить новые социальные иконки"
+
+#: inc/customizer.php:288
+msgid "Shop section"
+msgstr "Раздел Магазин"
+
+#: inc/customizer.php:294 sections/azera_shop_shop_section.php:5
+#: sections/azera_shop_shop_section.php:10
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/customizer.php:307 sections/azera_shop_shop_section.php:6
+msgid "Showcase your work effectively and in an attractive form that your prospective clients will love."
+msgstr "Представьте ваш продукт эффективно и привлекательно, что бы понравиться вашим клиентам."
+
+#: inc/customizer.php:325
+msgid "Number of products"
+msgstr "Количество продуктов"
+
+#: inc/customizer.php:341
+msgid "Display products from"
+msgstr "Показать продукты из"
+
+#: inc/customizer.php:353
+msgid "Shortcodes section"
+msgstr "Раздел Шорткоды"
+
+#: inc/customizer.php:362
+msgid "Edit the shortcode options"
+msgstr "Редактировать настройки шорткодов"
+
+#: inc/customizer.php:376
+msgid "Ribbon section"
+msgstr "Блок Ленты"
+
+#: inc/customizer.php:388
+msgid "Ribbon Background"
+msgstr "Фон Ленты"
+
+#: inc/customizer.php:394 sections/azera_shop_ribbon_section.php:10
+msgid "In order to edit the text here you should go to customizer."
+msgstr "Для редактирования текста тут, вам необходимо перейти в настройщик."
+
+#: inc/customizer.php:406
+msgid "Text from customizer"
+msgstr "Текст из настройщика"
+
+#: inc/customizer.php:433
+msgid "Contact info section"
+msgstr "Блок контактная информация"
+
+#: inc/customizer.php:442 inc/customizer.php:443 inc/customizer.php:444
+#: sections/azera_shop_contact_info_section.php:9
+#: sections/azera_shop_contact_info_section.php:10
+#: sections/azera_shop_contact_info_section.php:11
+#: sections/azera_shop_ribbon_section.php:11
+msgid "Text from customizer."
+msgstr "Текст из настройщика."
+
+#: inc/customizer.php:449
+msgid "Add new contact field"
+msgstr "Добавить новое контактное поле"
+
+#: inc/customizer.php:465 inc/customizer.php:501
+msgid "Map shortcode"
+msgstr "Шорткод карты"
+
+#: inc/customizer.php:466 inc/customizer.php:502
+msgid "To use this section please install <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> plugin then use it to create a map and paste here the shortcode generated"
+msgstr "Для использования этого блока, пожалуйста установите <a href=\"https://wordpress.org/plugins/intergeo-maps/\">Intergeo Maps</a> плагин, затем используйте его для создания карты, и вставьте сюда полученный шорткод."
+
+#: inc/customizer.php:478
+msgid "Contact page"
+msgstr "Страница контактов"
+
+#: inc/customizer.php:488
+msgid "Contact form shortcode"
+msgstr "Контакт из шорткода"
+
+#: inc/customizer.php:489
+msgid "Create a form, copy the shortcode generated and paste it here. We recommend <a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a> but you can use any plugin you like."
+msgstr "Создайте форму, скопируйте полученный шорткод и вставьте его сюда. Мы рекомендуем <a href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a>, но вы можете выбрать любой другой плагин."
+
+#: inc/customizer.php:513
+msgid "Footer options"
+msgstr "Настройки футера"
+
+#: inc/customizer.php:515
+msgid "The main content of this section is customizable in: Customize -> Widgets -> Footer area. "
+msgstr "Основной контент этого блока настраивается в: Внешний вид -> Виджеты -> Зона футера."
+
+#: inc/customizer.php:531
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: inc/customizer.php:557
+msgid "Advanced options"
+msgstr "Дополнительные настройки"
+
+#: inc/customizer.php:559
+msgid "Azera Shop theme general options"
+msgstr "Основные настройки темы Azera Shop"
+
+#: inc/customizer.php:610
+msgid "Disable preloader?"
+msgstr "Отключить прелоадер?"
+
+#: inc/customizer.php:611
+msgid "If this box is checked, the preloader will be disabled from homepage."
+msgstr "Если этот чекбокс отмечен, прелоадер будет отключен на домашней странице."
+
+#: inc/customizer.php:620
+msgid "Blog header"
+msgstr "Заголовок блога"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-tags.php:26
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: inc/template-tags.php:30
+msgid "Newer posts"
+msgstr "Новые записи"
+
+#: inc/template-tags.php:58
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Создано %s"
+
+#: inc/template-tags.php:63
+msgctxt "post author"
+msgid "by %s"
+msgstr " %s"
+
+#: inc/template-tags.php:82
+msgid "Posted in %1$s"
+msgstr "Опубликовано %1$s"
+
+#: inc/template-tags.php:88
+msgid "Tagged %1$s"
+msgstr "Тег поставил %1$s"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 Коментарий"
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: inc/template-tags.php:115
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: inc/template-tags.php:117
+msgid "Tag: %s"
+msgstr "Тег: %s"
+
+#: inc/template-tags.php:119
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:121
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:121
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:123
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:123
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:125
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:125
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:127
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:131
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:133
+msgid "Archives"
+msgstr "Архивы"
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: sections/azera_shop_contact_info_section.php:20
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: sections/azera_shop_header_section.php:80
+#: sections/azera_shop_header_section.php:83
+#: sections/azera_shop_header_section.php:85
+msgid "Header button label:"
+msgstr "Текст кнопки заголовка:"
+
+#: sections/azera_shop_logos_section.php:24
+msgid "Affiliates Logos"
+msgstr "Логотипы партнеров"
+
+#: sections/azera_shop_ribbon_section.php:21
+#: sections/azera_shop_ribbon_section.php:23
+#: sections/azera_shop_ribbon_section.php:59
+#: sections/azera_shop_ribbon_section.php:61
+msgid "Ribbon"
+msgstr "Лента"
+
+#: sections/azera_shop_ribbon_section.php:40
+#: sections/azera_shop_ribbon_section.php:42
+msgid "Ribbon button label:"
+msgstr "Текст кнопки Ленты:"
+
+#: sections/azera_shop_shortcodes_section.php:36
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: sidebar.php:13
+msgid "Main sidebar"
+msgstr "Главная боковая панель"
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr "Контакт"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Первая страница"
+
+#. Template Name of the plugin/theme
+msgid "Page with right sidebar"
+msgstr "Страница с правой боковой панелью"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что ничего не найдено по данному пути. Возможно стоит попробовать одну из ссылок ниже или воспользоваться поиском?"
+
+#: archive.php:20 home.php:25 inc/customizer.php:626
+msgid "BLOG"
+msgstr "БЛОГ"
+
+#: class-tgm-plugin-activation.php:333 functions.php:347
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: class-tgm-plugin-activation.php:334 functions.php:348
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: class-tgm-plugin-activation.php:335 functions.php:349
+msgid "Installing Plugin: %s"
+msgstr "Устанавливается плагин: %s"
+
+#: class-tgm-plugin-activation.php:336 functions.php:350
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: class-tgm-plugin-activation.php:337 functions.php:351
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Необходимо установить следующий плагин для темы: %1$s."
+msgstr[1] "Необходимо установить следующие плагины для темы: %1$s."
+msgstr[2] "Необходимо установить следующие плагины для темы: %1$s."
+
+#: class-tgm-plugin-activation.php:342 functions.php:352
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Рекомендуем установить следующий плагин для темы: %1$s."
+msgstr[1] "Рекомендуем установить следующие плагины для темы: %1$s."
+msgstr[2] "Рекомендуем установить следующие плагины для темы: %1$s."
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Извините, но у вас нет прав для установки плагина %1$s."
+msgstr[1] "Извините, но у вас нет прав для установки плагинов %1$s."
+msgstr[2] "Извините, но у вас нет прав для установки плагинов %1$s."
+
+#: class-tgm-plugin-activation.php:352 functions.php:357
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин должен быть обновлен до последней версии для полной совместимости с темой: %1$s."
+msgstr[1] "Следующие плагины должны быть обновлены до последней версии для полной совместимости с темой: %1$s."
+msgstr[2] "Следующие плагины должны быть обновлены до последней версии для полной совместимости с темой: %1$s."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступны обновление для: %1$s."
+msgstr[1] "Доступны обновления для следующих плагинов: %1$s."
+msgstr[2] "Доступны обновления для следующих плагинов: %1$s."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Извините, но у вас нет прав для обновления плагина %1$s."
+msgstr[1] "Извините, но у вас нет прав для обновления плагинов %1$s."
+msgstr[2] "Извините, но у вас нет прав для обновления плагинов %1$s."
+
+#: class-tgm-plugin-activation.php:367 functions.php:354
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Данный плагин необходимый для работы, не активирован: %1$s."
+msgstr[1] "Данные плагины необходимые для работы, не активированы: %1$s."
+msgstr[2] "Данные плагины необходимые для работы, не активированы: %1$s."
+
+#: class-tgm-plugin-activation.php:372 functions.php:355
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Данный плагин рекомендуемый для работы, не активирован: %1$s."
+msgstr[1] "Данные плагины рекомендуемые для работы, не активированы: %1$s."
+msgstr[2] "Данные плагины рекомендуемые для работы, не активированы: %1$s."
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/azera-shop/"
+msgstr "http://themeisle.com/themes/azera-shop/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
